@@ -52,7 +52,7 @@ img:nth-child(4n+4) {
 
 }
 
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 38em) {
 
   img:nth-child(2n+2) {
     display: block;
@@ -69,11 +69,11 @@ img:nth-child(4n+4) {
   }
 }
 
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 60em) {
 
   img:first-child {
     display: block;
-    max-width: 66.6667%;
+    max-width: 66.6666%;
   }
 
   img:nth-child(2n+2) {
